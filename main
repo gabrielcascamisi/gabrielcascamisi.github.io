@@ -2,9 +2,28 @@ index.html
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Gabriel Cascamisi's GitHub Site</title>
+  <title>Gabriel Cascamisi's Work</title>
 </head>
 <body>
-<p>A showcase of my work</p>
+  <h1>Mycelium Snowman</h1>
+  <p>
+
+  </p>
+
+  <h2>Mycelium Mousepad</h2>
+  <p>
+
+  </p>
+
+  <h3>Potentiometric pH Probe</h3>
+  <p>
+
+  </p>
+
+  <h4>Density Functional Theory (DFT) Calculations
+  <p>
+
+  </p>
+
 </body>
 </html>
